@@ -3,27 +3,6 @@
 
 ---
 
-### Day 11 - Instagram
-
-**Image: Chat interface screenshot with overlay**
-
-**Caption:**
-Meet your author's new best friend.
-
-Every author gets a personal AI research assistant that knows their paper, their review feedback, and their correction status.
-
-Questions at midnight? Answered.
-Confused about methodology feedback? Explained.
-Need clarification on citations? Covered.
-
-24/7 support without burning out your admin team.
-
-This is what modern conference management looks like.
-
-#AIAssistant #AuthorSupport #ConferenceTech
-
----
-
 ## Week 3: Use Cases & Social Proof
 
 ### Day 15 - Facebook
