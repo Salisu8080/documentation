@@ -5,64 +5,6 @@
 
 ## Week 3: Use Cases & Social Proof
 
-### Day 15 - Facebook
-
-Who benefits from AI-powered conference management?
-
-UNIVERSITIES
-- Host conferences without reviewer bottlenecks
-- Maintain publication standards
-- Reduce administrative burden
-
-RESEARCH INSTITUTIONS
-- Accelerate internal paper review
-- Standardize quality criteria
-- Free up senior researchers
-
-PROFESSIONAL ASSOCIATIONS
-- Scale annual conferences
-- Provide member value
-- Modernize processes
-
-JOURNAL PUBLISHERS
-- Speed up review cycles
-- Reduce backlog
-- Improve author experience
-
-If your organization handles academic paper review, we should talk.
-
----
-
-### Day 17 - Twitter/X
-
-Universities in Africa are doing world-class research.
-
-Publication bottlenecks shouldn't hold them back.
-
-We built AI tools to accelerate academic publishing.
-
-Live at ABU Zaria. Ready for your institution.
-
-#AfricanResearch #AcademicExcellence #TechForAfrica
-
----
-
-### Day 18 - LinkedIn
-
-Three questions we get asked:
-
-**Q: Do you replace human reviewers?**
-A: No. We accelerate the process. AI provides initial review. Humans approve, override, and handle nuance. Reviewers focus on edge cases instead of routine checks.
-
-**Q: What about specialized domains?**
-A: The system handles general academic standards (methodology, structure, citations). Domain experts still validate technical accuracy. We reduce workload, not expertise.
-
-**Q: Is author data safe?**
-A: Papers are processed through secure API calls. We don't store papers on external servers. Your data stays yours.
-
-More questions? Let's schedule a call.
-
----
 
 ### Day 19 - Facebook
 
@@ -83,22 +25,6 @@ Human review needed: Edge cases only
 Deadline: Met
 
 This is the reality we're building. Conference management that actually scales.
-
----
-
-### Day 20 - Instagram (Story polls)
-
-**Story 1:**
-Question: How long does paper review take at your institution?
-- Less than 1 week
-- 1-2 weeks
-- 3-4 weeks
-- More than a month
-
-**Story 2:**
-"Whatever you answered, we can make it faster."
-SAYPEACE AI Conference System
-Link in bio
 
 ---
 
