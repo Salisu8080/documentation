@@ -1,18 +1,18 @@
 # Project: Development of a Faculty Quality assurance system for monitoring Lectures.
-Goal: to monitor whether lecturers in the university are taking their lectures as schedule in the timetable and also to track level of completion os syllabus for each course.
+Goal: to monitor whether lecturers in the university are taking their lectures as scheduled in the timetable and also to track level of completion of syllabus for each course.
 
-## University Structure:
+## University programmes Structure:
 Undergraduate Degrees
 1. 4 Years programmes (4 sessions)
 2. 5 Years programmes (5 sessions)
 3. 6 Years programmes (6 sessions)
 4. 7 Years programmes (7 sessions)
 
-Graduate
+Graduate Degrees
 1. MSc (2 Years)
 2. PhD (3 Years)
 3. PGD (1 to 2 yers)
-but in the graduate programmes, lectures only takes place in the first 1 year. the rest of the years would be for research.
+- But in the graduate programmes, lectures only takes place in the first 1 year. the rest of the years would be for research.
 
 
 ## Semester base tracking
