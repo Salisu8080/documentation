@@ -17,7 +17,8 @@ Graduate Degrees
 
 ## Semester base tracking
 Each Session == 2 Semesters
-for a 4 Years programmes:
+
+### for a 4 Years programmes:
  - 100 Level (first semester, second semester) --> Session name: 2022/2023
  - 200 Level (first semester, second semester) --> Session name: 2023/2024
  - 300 Level (first semester, second semester) --> Session name: 2024/2025
