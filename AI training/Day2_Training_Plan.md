@@ -29,10 +29,3 @@
 | **16:00 - 16:15** | **🥤 Stretch Break** | |
 | **16:15 - 16:40** | **Closing** | The Future of AI in Academia.<br>Final Q&A. |
 | **16:40 - 17:00** | **Closing Fun** | **Kahoot Session:** "Research Integrity & Ethics Showdown."<br>Certificates & Closing Remarks. |
-
----
-
-## 🎒 Logistics Checklist for Day 2
-*   [ ] **Research Accounts:** Encourage sign-ups for free tiers of Elicit/Consensus.
-*   [ ] **Data:** Remind participants to bring *non-confidential* abstracts.
-*   [ ] **Kahoot:** Prepare end-of-day Ethics/Research quiz.

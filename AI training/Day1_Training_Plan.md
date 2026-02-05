@@ -5,7 +5,7 @@
 
 | Time | Activity | Topics Covered |
 | :--- | :--- | :--- |
-| **09:00 - 09:30** | **Arrival & Introduction** | **SayPeace Spotlight:** Introduction to SayPeace Solutions (Amina AI, PyLearn, Research Hub).<br>Welcome & Training Overview. |
+| **09:00 - 09:30** | **Arrival & Introduction** | **SayPeace Spotlight:** Introduction to SayPeace Solutions.<br>Welcome & Training Overview. |
 | **09:30 - 09:45** | **Ice Breaker** | "Two Truths and an AI Lie" (Manual/Interactive). |
 | **09:45 - 10:45** | **Core Concepts** | What You Need to Know About AI.<br>Explore and Compare AI Tools. |
 | **10:45 - 11:30** | **The Framework** | The 5-Component Prompt Framework.<br>Prompt Transformation Workshop. |
@@ -28,11 +28,3 @@
 | **16:00 - 16:40** | **Content & Feedback** | Creating Lecture Slides and Visual Aid Descriptions.<br>Multi-Level Explanations.<br>AI-Assisted Student Feedback.<br>Build a Complete Teaching Package. |
 | **16:40 - 17:00** | **Closing Fun** | **Kahoot Session:** "AI Myths & Prompts Challenge."<br>Homework Assignment. |
 
----
-
-## 🎒 Logistics Checklist for Day 1
-*   [ ] **Internet:** Stable Wi-Fi access codes printed or displayed.
-*   [ ] **Power:** Extension boxes/strips for participant laptops.
-*   [ ] **Display:** Projector for slides + live demo screen.
-*   [ ] **Kahoot:** Prepare end-of-day quiz.
-*   [ ] **Accounts:** Ensure participants have signed up for AI tools.
