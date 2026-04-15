@@ -114,7 +114,7 @@ You are the guardian of the SayPeace visual identity. You ensure everything we p
 
 ---
 
-## 7. Technical Operations Lead
+## 7. Technical Operations Manager
 **The Keeper of the Code**
 You are the most senior technical person on the intern team. You ensure our servers stay up and our code stays clean.
 
